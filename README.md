@@ -21,4 +21,6 @@
   <img src=https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg alt=sass width="20" height="20"/> 
 </p>
 
-
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=AndresParraGO&show_icons=true&hide_border=true&title_color=fff&text_color=fff&icon_color=fff&bg_color=444" />
+</p>
