@@ -2,6 +2,11 @@
 <h1 align="center">Hi 👋, I'm Andrés Parra</h1>
 
 <p align="center">
+  <a href="https://twitter.com/AndresParraGar4"><img src="https://img.shields.io/twitter/follow/AndresParraGar4?style=social" /></a>
+  <a href="https://github.com/AndresParraGO"><img src="https://img.shields.io/github/followers/AndresParraGO?label=follow&style=social" /></a>
+</p>
+
+<p align="center">
   <a href=https://codepen.io/andresparrago target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg height="20" width="20" /></a>
   <a href=https://www.facebook.com/andresparradev target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg height="20" width="20" /></a>
   <a href=https://twitter.com/AndresParraGar4 target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg height="20" width="20" /></a>
