@@ -18,6 +18,11 @@
 <h3 align="center">A young frontend developer from Colombia 🇨🇴</h3>
 
 
+<p align="center">
+  <img align="center" width="200" src="https://img.shields.io/static/v1?label=WebTechnologies&message=FrontendDeveloper&color=green" />
+</p>
+
+
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/git.png" alt="git" width="20" height="20" />
