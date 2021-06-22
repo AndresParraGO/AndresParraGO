@@ -7,7 +7,8 @@
 </p>
 
 
-<p align="center">Frontend Developer con experiencia en el MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS). Mi lenguaje principal es JavaScript. Me encanta el CSS y apoyar el open source.</p>
+<p align="center">Soy 🇨🇴 Colombiano, actualmente estoy estudiando Ingeniería de Sistemas, tengo experiencia con el MERN Stack (MongoDB, ExpressJS, ReactJS, NodeJS), me gusta apoyar el open source y siempre estar en constante aprendizaje.</p>
+<p align="center">Mis especialidades son: CSS, Javascript, Node, React, GitHub, MongoDB, ExpressJS, SASS</p>
 
 <p align="center">
   <a href=https://codepen.io/soyandresgarzon target="_blank"><img align="center" src=https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg height="20" width="20" /></a>
